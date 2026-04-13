@@ -1,0 +1,25 @@
+{
+  "model_name": "XGBoost (Tuned)",
+  "R2": 0.8148,
+  "MAE": 0.9458,
+  "RMSE": 1.219,
+  "CV_R2_Mean": 0.7093,
+  "CV_R2_Std": 0.0971,
+  "feature_cols": [
+    "ghi",
+    "dni",
+    "temperature",
+    "cloud_pct",
+    "clearness",
+    "elevation",
+    "slope",
+    "aspect",
+    "ndvi",
+    "road_km",
+    "grid_km",
+    "wind_speed",
+    "precipitation",
+    "humidity",
+    "land_score"
+  ]
+}
